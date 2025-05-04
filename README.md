@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tiny Modular Transformer
 
 A lightweight and modular transformer architecture implemented from scratch in PyTorch. Designed for education, experimentation, and extension.
@@ -122,3 +123,7 @@ We welcome contributions from the community! Here's how to get started:
 
 Thanks for helping us build an awesome open-source learning tool! 🙏
 
+=======
+# AI-Advancements
+A collection of innovative, modular, and educational AI experiments — starting with a Tiny Transformer built from scratch for deep learning exploration and rapid prototyping.
+>>>>>>> 02448b665b4bd7170699f85566f0ca94e3175129
